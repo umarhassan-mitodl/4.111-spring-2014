@@ -1,0 +1,38 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 7ce0780b-e40f-5761-c227-48f87bceac79
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 1218a40d-d314-fc68-d574-fb01c6e80e4a
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 957b4d6f-d0d4-c815-84f9-80f5e17a52ab
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 682035d6-5ab6-b14b-da05-205644c8634a
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 40
+- identifier: 9b30db11-1b8b-4082-a5f1-6c312ffa8eac
+  name: Projects
+  pageRef: /pages/projects/
+  weight: 50
+- identifier: 3ac84bd1-e2d8-08d0-ec4e-f378022801f6
+  name: Exercise 1
+  pageRef: /pages/projects/exercise-1
+  parent: 9b30db11-1b8b-4082-a5f1-6c312ffa8eac
+  weight: 60
+- identifier: 42db91c5-8238-1124-9345-ca68a96237aa
+  name: Exercise 2
+  pageRef: /pages/projects/exercise-2
+  parent: 9b30db11-1b8b-4082-a5f1-6c312ffa8eac
+  weight: 70
+- identifier: 306905c6-83d8-4a53-fff4-c4b8d2c72901
+  name: Exercise 3
+  pageRef: /pages/projects/exercise-3
+  parent: 9b30db11-1b8b-4082-a5f1-6c312ffa8eac
+  weight: 80

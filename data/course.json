@@ -1,0 +1,55 @@
+{
+  "term": "Spring",
+  "year": "2014",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Architecture"
+    ],
+    [
+      "Fine Arts",
+      "Architecture",
+      "Architectural Design"
+    ],
+    [
+      "Fine Arts",
+      "Architecture",
+      "Environmental Design"
+    ]
+  ],
+  "legacy_uid": "fe80baad-cea3-b249-6a03-9c99171d008f",
+  "instructors": {
+    "content": [
+      "830aef23-bacd-04bf-d915-3d0958995ec3"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "b8ed9900-fbd0-f108-5de7-b220cd6454a2",
+    "website": "4-111-introduction-to-architecture-environmental-design-spring-2014"
+  },
+  "course_title": "Introduction to Architecture & Environmental Design",
+  "hide_download": true,
+  "course_description": "This course provides a foundation to the design of the environment from the scale of the object, to the building to the larger territory. The design disciplines of architecture as well as urbanism and landscape are examined in context of the larger influence of the arts and sciences. Students are expected to develop skills in thinking and analysis, spatial representation, and design methodologies. Through lectures and design exercises, students are provided an opportunity to establish a reference for understanding the discipline of architecture and environmental design, and are given an introduction to design fundamentals and the design process.\n",
+  "department_numbers": [
+    "4"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "4.111",
+  "course_image_thumbnail": {
+    "content": "b8a3d697-50c9-5da0-ee9d-ed0c2055eb7d",
+    "website": "4-111-introduction-to-architecture-environmental-design-spring-2014"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Image Gallery",
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "1f5177ec-19ca-463a-97fa-871b7c3dc1ae",
+  "site_short_id": "4.111-spring-2014",
+  "site_url_path": "courses/4-111-introduction-to-architecture-environmental-design-spring-2014",
+  "title": "Course Metadata"
+}
